@@ -1,1 +1,5 @@
-# Budget-Web-Application
+The Budget Management Web App is a dynamic application built with React, JavaScript, HTML, and CSS to help users manage their finances effectively. Users can create multiple profiles, set up budgets with specific limits, and track expenses under each budget. The application provides real-time tracking of how much has been spent and how close the user is to their budget limit. A visual representation of budget progress is displayed, and warnings are provided if expenses exceed the set budget.
+
+Users can add, edit, and delete expenses within each budget, with the ability to modify details directly from the user interface. The app stores all profile and budget data using local storage, ensuring data persistence across sessions. The intuitive design, built with responsive CSS, allows for seamless use across different devices, whether on desktop or mobile.
+
+The application also provides a summary view that gives users a snapshot of their overall financial standing, showing total expenses against total budget limits. This app is ideal for users looking to organize their finances, track spending, and stay within budget, providing an easy and accessible solution for personal financial management.
